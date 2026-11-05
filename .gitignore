@@ -1,0 +1,15 @@
+# Go build artifacts
+*.exe
+*.test
+*.out
+*.prof
+
+# MapReduce intermediate files
+mr-*
+!mr-out-*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
